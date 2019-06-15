@@ -1,5 +1,5 @@
 # 计算机网络STP生成树实验
-> 在mininet环境下
+> 在mininet环境下   
 > stp-reference是参考程序
 
 ## USAGE

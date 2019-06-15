@@ -9,3 +9,6 @@
 4 分别执行make编译出的执行文件stp ```shell ./stp > b\*-output.txt ```   
 5 执行```shell sudo pkill -SIGTERM stp ```   
 6 执行./dump_output.sh *num* dump输出结果   
+
+## 报告
+> 报告见[<u>https://blog.csdn.net/Rivalak/article/details/92068522](https://blog.csdn.net/Rivalak/article/details/92068522)  
